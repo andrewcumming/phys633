@@ -1,0 +1,17 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: e08c8f9e-038b-4007-9717-961b0bf4d92e
+  title: PHYS 633 Astrophysical Dynamics
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/andrewcumming/phys633
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+   - file: outline.md
+site:
+  template: book-theme
+  #options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
