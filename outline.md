@@ -29,7 +29,7 @@ The topic for the course, "Astrophysical Dynamics", has deliberately been chosen
 
 ## Format
 
-We will discuss a different topic every week. The first class will be a short summary of the topic based on the reading followed by discussion. The second class will be a numerical exercise that illustrates the topic.
+We will discuss a different topic every week. The first class each week will be a short summary of the topic based on the reading, followed by discussion. The second class each week will be a numerical exercise that illustrates the topic.
 
 We will divide into pairs and, starting from Week 4, each pair of students will take charge of one or two weeks of the class (depending on the total number of students, TBD at the first meeting). You will be responsible, with the help of the course instructor, for assigning reading for the week, giving the summary and running the discussion, and for coming up with a numerical exercise.
 
