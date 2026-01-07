@@ -12,6 +12,7 @@ project:
     - file: index.md
     - file: outline.md
     - file: schedule.md
+    - file: getting_started.md
     - file: Week1/week1.md
       children:
       - file: Week1/week1.ipynb
