@@ -18,8 +18,6 @@ Divide into three groups to work on the following problems. You will have 10 min
 
 1. __Guiding centre approximation__. The guiding centre approximation is discussed in Section 2.6. Test this approximation numerically by making plots in the rotating frame that rotates with the guiding centre. Check numerically that the error in the approximation scales $\propto e^2$.
 
-2. __Applying forces to a particle in orbit__. Section 2.9 presents results for how the orbital elements change when forces are applied to the orbiting body. Test these predictions numerically. You can use the [example notebook on the Stark problem]( https://github.com/hannorein/rebound/blob/main/ipython_examples/Forces.ipynb) included with REBOUND to get started.
+2. __Applying forces to a particle in orbit__. Introduce an external force and investigate the effect on the orbital elements. The [example notebook on the Stark problem]( https://github.com/hannorein/rebound/blob/main/ipython_examples/Forces.ipynb) included with REBOUND shows how to add an external force. Two cases to check are: (1) an initially circular orbit subject to either a radial or a tangential force, and (2) an inclined eccentric orbit subject to a force normal to the orbital plane. Qualitatively does the evolution match the predictions in section 2.9?
 
-3. __Orbits in velocity space__. Study the shape, size and location of the orbits in velocity space and how they depend on semi-major axis $a$ and eccentricity $e$. Derive formulas if you can and test them against your numerical results.
-
-
+3. __Orbits in velocity space__. Study the shape, size and location of the orbits in velocity space and how they depend on semi-major axis $a$ and eccentricity $e$. Compare against the analytic predictions for the velocities in Murray and Dermott. Their expression is for the case where the semi-major axis is along the $x$-axis; can you generalize this to other cases?
