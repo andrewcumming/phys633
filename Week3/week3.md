@@ -8,13 +8,14 @@ Page 265 - 275 of [Philip J. Armitage](https://mcgill.on.worldcat.org/search/det
 
 ## Reading questions
 
--What do the tidal force vectors look like at the surface of a planet? How does their magnitude depend on position on the surface? Include a labeled sketch in your answer.
--Identify the three types of tides discussed in the book. What physical motions or effects give rise to each type?
--Explain how the composition and internal structure of a planet can be studied using tidal and rotational deformation. What theoretical result introduced in this chapter allows such inferences to be made?
--What is the Roche limit? Explain its physical significance.
--This text was first published in 1999, after the Pioneer and Voyager missions and during the Galileo mission to Jupiter. Have the "plausible models" for the interiors of the Galilean moons shown in Fig. 4.11 stood the test of time? Briefly justify your answer.
+- What do the tidal force vectors look like at the surface of a planet? How does their magnitude depend on position on the surface? Include a labeled sketch in your answer.
+- Identify the three types of tides discussed in the book. What physical motions or effects give rise to each type?
+- Explain how the composition and internal structure of a planet can be studied using tidal and rotational deformation. What theoretical result introduced in this chapter allows such inferences to be made?
+- What is the Roche limit? Explain its physical significance.
+- This text was first published in 1999, after the Pioneer and Voyager missions and during the Galileo mission to Jupiter. Have the "plausible models" for the interiors of the Galilean moons shown in Fig. 4.11 stood the test of time? Briefly justify your answer.
 
--What does it mean for two planets to be in resonance?
--The Grand Tack hypothesis proposes that Jupiter formed beyond the snow line, migrated inward through interactions with the protoplanetary gas disk, and later reversed its migration outward. Explain how resonant capture played a role in this migration.
--Why does the Kozai mechanism not change the semi-major axis of the perturbed object?
+- What does it mean for two planets to be in resonance?
+- The Grand Tack hypothesis proposes that Jupiter formed beyond the snow line, migrated inward through interactions with the protoplanetary gas disk, and later reversed its migration outward. Explain how resonant capture played a role in this migration.
+- Why does the Kozai mechanism not change the semi-major axis of the perturbed object?
+
 Answers to these questions should be submitted to your github repository *before* class on Monday.
