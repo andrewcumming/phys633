@@ -44,6 +44,7 @@ The second part of the course (approximately 4 weeks) will be devoted to individ
   - [Example notebooks](https://github.com/hannorein/rebound/tree/main/ipython_examples)
   - [YouTube tutorials](https://www.youtube.com/@reboundcode)
   - [Units](https://rebound.hanno-rein.de/units/#using-g1)
+  - [REBOUNDx](https://reboundx.readthedocs.io/en/latest/python_quickstart.html) for adding additional forces, e.g. effects of tides
   
 ## Assessment
 
