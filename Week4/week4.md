@@ -2,8 +2,8 @@
 
 ## Reading
 
-- Bovy Chapter 5 except 5.6
-- Bovy Sections 6.4 and 6.5 (for the numerical exercise)
+- [Bovy Chapter 5](https://galaxiesbook.org/chapters/I-04.-Equilibria-of-Collisionless-Stellar-Systems.html) except 5.6
+- [Bovy Sections 6.4 and 6.5](https://galaxiesbook.org/chapters/I-05.-Masses-of-Spherical-Stellar-Systems_4-The-mass-of-the-Milky-Way's-dark-matter-halo.html) (for the numerical exercise)
 
 Note: you will need to install galpy on your computer for the numerical exercise. You can do it from your rebound virtual environment with `pip install galpy`.
 
