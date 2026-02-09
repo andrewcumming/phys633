@@ -30,6 +30,7 @@ project:
     - file: Week4/week4.md
       children:
       - file: Week4/Exercise_dwarf_galaxies.ipynb
+      - file: Week4/week4_solutions.ipynb
     - file: Week5/week5.md
       children:
       - file: Week5/week5_exercise.md
