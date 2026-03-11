@@ -10,8 +10,12 @@ In this part of the exercise, we are going to investigate the orbit of a star in
 
 3) We can now move to an actual galactic potential! For exercises 3-5 use MWPotential2014() as the basis. Plot the level curves (you can use the code from the reading for this). Write a script which takes as inputs the energy, the z-direction angular momentum, the position. What do you notice? Plot the rotation and the escape velocity curves. Does it match your expectations? A reminder that this is how we can find the vertical velocity: $v_z=\sqrt{2(E-\Phi-\frac{v_R^2}{2}-\frac{L_z^2}{2R^2})}$
 
-4) Now let's add a super massive black hole of $M=4\cdot10^6 M_{\odot\}$ using a Kepler potential and do the same as 3). Can you notice a difference?
+4) Now let's add a super massive black hole of $M=4\cdot 10^6 M_{\odot}$ using a Kepler potential and do the same as 3). Can you notice a difference?
 
 5) Finally, let's tweak the dark matter content of the Milky Way on top of the SMBH. You can do so by applying the following transformation: MWPotential2014[2]*= 1.5 and do the same as 3). Is this a more accurate representation of the Milky Way by comparing your results with the literature? What's the escape velocity required at the location of the solar system? What's the lowest energy required to eject the Sun out of the Milky Way within 10 dynamical times?
 
 6) Seperate the potential into a) the z-direction component b) the rotation plane. From the reading in section 9.2, find $R_{max}$, $R_{min}$, and $R_{median}$ curves. You can use toLinear() and toPlanar() methods for the orbit.
+
+## Part 2: Geometry of Resonances
+
+Try to reproduce some of the panels in Figure 8.4 of Murray and Dermott.
