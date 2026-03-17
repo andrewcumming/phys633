@@ -63,6 +63,7 @@ project:
       - file: Week8/week8.md
         title: 'Week 8 Reading'
       - file: Week8/week8_exercise.md
+      - file: Week8/week8_solutions.ipynb
 
 site:
   template: book-theme
