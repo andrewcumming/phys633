@@ -10,4 +10,6 @@
 * The orbits of KBOs and planet 9
 * The dynamics of the ultracompact neutron star X-ray binary 4U 1820-30
 
+[Projects folder](https://github.com/andrewcumming/phys633/tree/main/Projects)
+
 
