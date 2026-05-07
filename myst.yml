@@ -66,6 +66,7 @@ project:
       - file: Week8/week8_solutions.ipynb
     - title: Projects
       children:
+      - file: Projects/project_list.md
       - file: Projects/HJ_migration.ipynb
       - file: Projects/starcluster.ipynb
       - file: Projects/1820.ipynb
